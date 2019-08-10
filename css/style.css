@@ -29,6 +29,9 @@ h1 {
 	font-weight: normal;
 	color: #98ada6;
 }
+h1:hover {
+	color: #6f7f7a;
+}
 
 h2 {
 color: #6f7f7a;
