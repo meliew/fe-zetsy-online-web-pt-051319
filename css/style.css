@@ -28,4 +28,9 @@ h1 {
 	font-size: 5em;
 	font-weight: normal;
 }
-/* Write all remaining styles here */
+
+
+#featured-image {
+	border: 5px;
+
+}
