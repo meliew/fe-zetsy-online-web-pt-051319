@@ -45,3 +45,7 @@ font-size: 2em;
 #press img {
 	border: 4px solid #cccccc;
 }
+
+press img:hover {
+	border: 4px solid #6f7f7a;
+}
