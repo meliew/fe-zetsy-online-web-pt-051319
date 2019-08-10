@@ -27,9 +27,12 @@ h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
 	font-weight: normal;
-	color: #98ada6; 
+	color: #98ada6;
 }
 
+h2 {
+color: #6f7f7a;
+}
 
 #featured img {
 	border: 5px solid blue;
